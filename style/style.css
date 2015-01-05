@@ -1,0 +1,35 @@
+html{
+background-color:CornflowerBlue ;
+font-family:Helvetica;
+font-weight:bold;
+
+}
+header{
+	font-size:xx-large;
+	text-align:center;
+	margin-top:40px;
+	margin-bottom:40px;
+	border-bottom:2px;
+	border-top:thick double #ff0000;
+	border-bottom:thick double #ff0000;
+	padding:15px;
+	background-color:ivory;
+	color:black;
+	text-shadow:2px 2px white;
+	font-style:italic;
+	font-family: 'Lobster', cursive;
+}
+form{
+background-color:ivory;
+padding:15px;
+float:right;
+}
+input{
+padding:15px;
+border-radius:5px;
+color:RoyalBlue ;
+text-shadow:2px 2px white;
+}
+#przycisk_wykonaj{
+font-weight:bold;
+}
