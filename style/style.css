@@ -1,7 +1,7 @@
 html{
-background-color:CornflowerBlue ;
-font-family:Helvetica;
-font-weight:bold;
+	background-color:CornflowerBlue ;
+	font-family:Helvetica;
+	font-weight:bold;
 
 }
 header{
@@ -20,16 +20,16 @@ header{
 	font-family: 'Lobster', cursive;
 }
 form{
-background-color:ivory;
-padding:15px;
-float:right;
+	background-color:ivory;
+	padding:15px;
+	float:right;
 }
 input{
-padding:15px;
-border-radius:5px;
-color:RoyalBlue ;
-text-shadow:2px 2px white;
+	padding:15px;
+	border-radius:5px;
+	color:RoyalBlue ;
+	text-shadow:2px 2px white;
 }
 #przycisk_wykonaj{
-font-weight:bold;
+	font-weight:bold;
 }
